@@ -2,14 +2,14 @@
  * @Author: gitsrc
  * @Date: 2022-04-14 17:59:19
  * @LastEditors: gitsrc
- * @LastEditTime: 2022-04-14 18:03:05
+ * @LastEditTime: 2022-04-14 18:04:27
  * @FilePath: /ztalab_github/profile/README.md
 -->
 
 
 <p align="center">
 <img 
-    src="../imgs/logo.png" 
+    src="https://raw.githubusercontent.com/ztalab/.github/main/imgs/logo.png" 
     width="40%" border="0" alt="IceFireDB">
 </p>
 
