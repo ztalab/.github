@@ -2,7 +2,7 @@
  * @Author: gitsrc
  * @Date: 2022-04-14 17:59:19
  * @LastEditors: gitsrc
- * @LastEditTime: 2022-04-14 18:04:27
+ * @LastEditTime: 2022-04-14 18:09:53
  * @FilePath: /ztalab_github/profile/README.md
 -->
 
@@ -17,8 +17,11 @@ ZTATAB is a research and open source organization for zero trust architecture. C
 
 ### Contributing to the ecosystem
 
-- **CA** - Zero Trust CA Certificate System
-- **ZAsentinel** - Zero Trust Software Defined Boundary SDP System
+- **ZACA** - Zero Trust CA Certificate System
+- **ZASentinel** - Zero Trust Software Defined Boundary SDP System
+- **ZAManager** - Zero Trust Control Center, providing certificate, authentication, permission and platform control capabilities.
+- **ZAPortal** - The zero-trust management platform provides users with a control interface with low thresholds.
+
 
 
 
