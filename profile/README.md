@@ -15,7 +15,7 @@
 
 🛡**ZTALAB**🛡 is a research and open source organization for zero trust architecture. We will gradually open source the projects we have incubated and ongoing projects to make our contribution to the zero-trust ecosystem. If you are also interested, or have any suggestions, please let us know and let us know. Let's work together to promote the construction of a zero-trust ecosystem.
 
-### ZeroAccess product composition [《ZeroAccess White Paper》](https://www.cloudslit.com/)
+### ZeroAccess product composition [《ZeroAccess White Paper》](https://www.ztalab.xyz/ztalab_blog/zeroaccess-whitepaper/)
 
 - **ZACA** - Zero Trust CA Certificate System
 - **ZASentinel** - Zero Trust Network Communication Sentinel provides peer-to-peer, multi-protocol, automatic networking, cross-CDN and other features for network communication.
