@@ -17,7 +17,7 @@
 
 ### ZeroAccess product composition [《ZeroAccess White Paper》](https://www.ztalab.xyz/ztalab_blog/zeroaccess-whitepaper/)
 
-- **ZACA** - Zero Trust CA Certificate System
+- **ZACA** - Zero Trust CA
 - **ZASentinel** - Zero Trust Network Communication Sentinel provides peer-to-peer, multi-protocol, automatic networking, cross-CDN and other features for network communication.
 - **ZAManager** - Zero Trust Control Center, providing certificate, authentication, permission and platform control capabilities.
 - **ZAPortal** - The zero-trust management platform provides users with a control interface with low thresholds.
