@@ -33,7 +33,3 @@ By making a contribution to this project, I certify that:
 
 (d) I understand and agree that this project and the contribution are public and that a record of the contribution (including all personal information I submit with it, including my sign-off) is maintained indefinitely and may be redistributed consistent with this project or the open source license(s) involved.
 (d) 本人理解并同意，本项目及贡献是公开的，且贡献（包括本人随附提交的全部个人信息，含本人签字）将被无限期存档，并可以与本项目或所涉开源许可证保持一致的情形下再被分发。
-
-****************************************************************************************************************************
-Above Chinese version of the Developer's Certificate of Origin is translated by the OpenAtom Foundation.
-以上开发者原创声明中文版本由开放原子开源基金会翻译。
