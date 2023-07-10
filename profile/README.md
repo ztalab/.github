@@ -1,17 +1,9 @@
-<!--
- * @Author: gitsrc
- * @Date: 2022-04-14 17:59:19
- * @LastEditors: gitsrc
- * @LastEditTime: 2022-04-14 18:44:30
- * @FilePath: /ztalab_github/profile/README.md
--->
-
-
 <p align="center">
 <img 
-    src="https://res.cloudinary.com/malloc/image/upload/v1649933054/github/logo_p8gyle.png" 
-    width="40%" border="0" alt="IceFireDB">
+    src="https://github.com/ztalab/.github/assets/34047788/d888892b-ad4e-44fb-875a-864c0d402ce4" 
+    width="220px" border="0" alt="ztalab">
 </p>
+
 
 🛡**ZTALAB**🛡 is a research and open source organization for zero trust architecture. We will gradually open source the projects we have incubated and ongoing projects to make our contribution to the zero-trust ecosystem. If you are also interested, or have any suggestions, please let us know. Let's work together to promote the construction of a zero-trust ecosystem.
 
